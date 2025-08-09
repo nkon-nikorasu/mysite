@@ -29,12 +29,14 @@ header h1 {
 .main-title {
   border-top: 2px solid rgb(244, 245, 246);
 }
+.linksone {
+  float: left;
+}
 .btn {
   display: inline-block;
   opacity: 0.7;
   border-radius: 5px;
   margin-bottom: 10px;
-  float: left;
 }
 .google {
   background-color: green;
