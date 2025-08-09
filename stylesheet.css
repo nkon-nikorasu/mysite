@@ -26,6 +26,12 @@ header h1 {
     color: rgb(244, 245, 246);
     float: left;
 }
+.google {
+  display: inline-block;
+  background-color: green;
+  color: rgb(244, 245, 246);
+  border-radius: 5px;
+}
 footer {
   background-color: black;
   height: 100px;
