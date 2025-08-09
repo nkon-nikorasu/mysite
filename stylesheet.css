@@ -26,6 +26,9 @@ header h1 {
     color: rgb(244, 245, 246);
     float: left;
 }
+.main-title {
+  border-top: 2px solid rgb(244, 245, 246);
+}
 .google {
   display: inline-block;
   background-color: green;
