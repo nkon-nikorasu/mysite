@@ -30,14 +30,21 @@ header h1 {
 }
 .linkzone {
   margin-top: 12px;
+  /*下記の指定で小要素を横並びにする*/
+  display: flex;
+  /*下記の指定でフレックスの指定を縦並びにできる*/
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
 }
 .btn {
-  display: block;
+  /*下記はインラインブロックとフレックスボックスの要素を併せ持った指定*/
+  display: inline-flex;
   opacity: 0.7;
   border-radius: 5px;
-  margin-bottom: 10px;
   padding:6px 10px;
   width: max-content;
+  text-decoration: none;
 }
 .google {
   background-color: green;
