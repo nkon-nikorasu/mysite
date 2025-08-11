@@ -11,6 +11,10 @@ header {
     height: 100px;
     padding-bottom: 50px;
 }
+header img {
+  height:50px;
+  width: 50px;
+}
 .title {
   font-family: 'Courier New', Courier, monospace;
   color: #0a0405;
@@ -57,7 +61,7 @@ header {
   color:red;
   background-color:black;
 }
-.x {
+.xtwi {
   color: white;
   background-color: black;
 }
