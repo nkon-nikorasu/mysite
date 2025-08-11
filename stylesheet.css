@@ -24,6 +24,9 @@ header {
     background-size: cover;
     color: rgb(244, 245, 246);
 }
+.process {
+  margin: 0;
+}
 .main-title {
   border-top: 2px solid rgb(244, 245, 246);
 }
