@@ -3,14 +3,15 @@
         font-size: 20px;
         color: white;
     }
+    .linkzone {
+        align-items: stretch;
+        gap: 8px;
+    }
     .btn {
-        display: block;
         height: 30px;
         width: 100%;
         margin-right: 20px;
         margin-left:20px;
-        
-        margin: 0 auto;
         text-align: center;
     }
 }
