@@ -57,6 +57,10 @@ header {
   color:red;
   background-color:black;
 }
+.x {
+  color: white;
+  background-color: black;
+}
 .btn:hover {
   opacity: 1.0;
   text-decoration: none;
