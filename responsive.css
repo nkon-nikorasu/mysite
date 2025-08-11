@@ -4,7 +4,7 @@
         color: white;
     }
     .linkzone {
-        align-items: stretch;
+        align-items: center;
         gap: 8px;
     }
     .btn {
