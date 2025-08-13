@@ -1,8 +1,9 @@
 @media (max-width:670px) {
+    header {
+        padding-left: 100px;
+    }
     .title {
-        text-align: right;
         font-size: 20px;
-        padding-right: 20px;
     }
     .linkzone {
         align-items: stretch;
